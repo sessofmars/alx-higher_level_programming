@@ -1,2 +1,2 @@
-/*A script that lists all databases on my MySQL server*/
+...A script that lists all databases on my MySQL server
 SHOW DATABASES;
